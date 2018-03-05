@@ -1,0 +1,30 @@
+{
+  "name": "@catalyst-elements/collection",
+  "version": "0.0.0",
+  "description": "A collection of all the catalyst elements.",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catalyst/CatalystElements.git"
+  },
+  "author": {
+    "name": "Rebecca Stevens",
+    "email": "rebeccastevens@catalyst.net.nz"
+  },
+  "bugs": {
+    "url": "https://github.com/catalyst/CatalystElements/issues"
+  },
+  "homepage": "https://github.com/catalyst/CatalystElements#readme",
+  "keywords": [
+    "element-collection",
+    "web-components"
+  ],
+  "dependencies": {
+    "@catalyst-elements/catalyst-flip-button": "*",
+    "@catalyst-elements/catalyst-toggle-button": "*",
+    "@catalyst-elements/catalyst-toggle-switch": "*"
+  },
+  "engines": {
+    "yarn": ">= 1.0.0"
+  }
+}
