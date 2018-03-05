@@ -11,8 +11,8 @@
   ],
   "homepage": "https://github.com/catalyst/CatalystElements",
   "dependencies": {
-    "@catalyst-elements/catalyst-flip-button": "catalyst/catalyst-flip-button#latest",
-    "@catalyst-elements/catalyst-toggle-button": "catalyst/catalyst-toggle-button#latest",
-    "@catalyst-elements/catalyst-toggle-switch": "catalyst/catalyst-toggle-switch#latest"
+    "@catalyst-elements/catalyst-flip-button": "catalyst/catalyst-flip-button",
+    "@catalyst-elements/catalyst-toggle-button": "catalyst/catalyst-toggle-button",
+    "@catalyst-elements/catalyst-toggle-switch": "catalyst/catalyst-toggle-switch"
   }
 }
