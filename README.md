@@ -1,4 +1,4 @@
-# Catalyst Elements
+# Catalyst Elements Collection
 
 [![David](https://img.shields.io/david/catalyst/CatalystElements.svg?style=flat-square)](https://david-dm.org/catalyst/CatalystElements)
 [![David](https://img.shields.io/david/dev/catalyst/CatalystElements.svg?style=flat-square)](https://david-dm.org/catalyst/CatalystElements?type=dev)
