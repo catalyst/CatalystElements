@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "A collection of all the catalyst elements.",
   "license": "BSD-3-Clause",
+  "flat": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/catalyst/CatalystElements.git"
@@ -20,9 +21,10 @@
     "web-components"
   ],
   "dependencies": {
-    "@catalyst-elements/catalyst-flip-button": "*",
-    "@catalyst-elements/catalyst-toggle-button": "*",
-    "@catalyst-elements/catalyst-toggle-switch": "*"
+    "@catalyst-elements/catalyst-flip-button": "latest",
+    "@catalyst-elements/catalyst-toggle-button": "latest",
+    "@catalyst-elements/catalyst-toggle-mixin": "latest",
+    "@catalyst-elements/catalyst-toggle-switch": "latest"
   },
   "engines": {
     "yarn": ">= 1.0.0"

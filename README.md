@@ -11,13 +11,21 @@
 [API documentation & Demos ↗](https://catalyst.github.io/CatalystElementsBundle/)
 
 A collection of all the Catalyst Elements.  
-A bundled version of all the Catalyst Elements is avalible [here](https://github.com/catalyst/CatalystElementsBundle).
+A bundled version of all the Catalyst Elements is available [here](https://github.com/catalyst/CatalystElementsBundle).
 
-| Element | NPM Version | Build Status | Polymer Support | Standalone |
-|:--------|:-----------:|:------------:|:---------------:|:----------:|
-| [catalyst-flip-button](https://github.com/catalyst/catalyst-flip-button) | [![npm (scoped)](https://img.shields.io/npm/v/@catalyst-elements/catalyst-flip-button.svg?style=flat-square)](https://www.npmjs.com/package/@catalyst-elements/catalyst-flip-button) | [![Travis](https://img.shields.io/travis/catalyst/catalyst-flip-button.svg?style=flat-square)](https://travis-ci.org/catalyst/catalyst-flip-button) | ![Polymer 2 not supported](https://img.shields.io/badge/Polymer_2-no-red.svg?style=flat-square) ![Polymer 3 support pending](https://img.shields.io/badge/Polymer_3-pending-yellow.svg?style=flat-square) | ![Standalone yes](https://img.shields.io/badge/standalone-yes-blue.svg?style=flat-square) |
-| [catalyst-toggle-button](https://github.com/catalyst/catalyst-toggle-button) | [![npm (scoped)](https://img.shields.io/npm/v/@catalyst-elements/catalyst-toggle-button.svg?style=flat-square)](https://www.npmjs.com/package/@catalyst-elements/catalyst-toggle-button) | [![Travis](https://img.shields.io/travis/catalyst/catalyst-toggle-button.svg?style=flat-square)](https://travis-ci.org/catalyst/catalyst-toggle-button) | ![Polymer 2 not supported](https://img.shields.io/badge/Polymer_2-no-red.svg?style=flat-square) ![Polymer 3 support pending](https://img.shields.io/badge/Polymer_3-pending-yellow.svg?style=flat-square) | ![Standalone yes](https://img.shields.io/badge/standalone-yes-blue.svg?style=flat-square) |
-| [catalyst-toggle-switch](https://github.com/catalyst/catalyst-toggle-switch) | [![npm (scoped)](https://img.shields.io/npm/v/@catalyst-elements/catalyst-toggle-switch.svg?style=flat-square)](https://www.npmjs.com/package/@catalyst-elements/catalyst-toggle-switch) | [![Travis](https://img.shields.io/travis/catalyst/catalyst-toggle-switch.svg?style=flat-square)](https://travis-ci.org/catalyst/catalyst-toggle-switch) | ![Polymer 2 not supported](https://img.shields.io/badge/Polymer_2-no-red.svg?style=flat-square) ![Polymer 3 support pending](https://img.shields.io/badge/Polymer_3-pending-yellow.svg?style=flat-square) | ![Standalone yes](https://img.shields.io/badge/standalone-yes-blue.svg?style=flat-square) |
+**Elements:**
+
+| Tag | NPM Version | Build Status | Polymer Support |
+|:----|:-----------:|:------------:|:---------------:|
+| [catalyst-flip-button](https://github.com/catalyst/catalyst-flip-button) | [![npm (scoped)](https://img.shields.io/npm/v/@catalyst-elements/catalyst-flip-button.svg?style=flat-square)](https://www.npmjs.com/package/@catalyst-elements/catalyst-flip-button) | [![Travis](https://img.shields.io/travis/catalyst/catalyst-flip-button.svg?style=flat-square)](https://travis-ci.org/catalyst/catalyst-flip-button) | ![Polymer 2 not supported](https://img.shields.io/badge/Polymer_2-no-red.svg?style=flat-square) ![Polymer 3 support pending](https://img.shields.io/badge/Polymer_3-pending-yellow.svg?style=flat-square) |
+| [catalyst-toggle-button](https://github.com/catalyst/catalyst-toggle-button) | [![npm (scoped)](https://img.shields.io/npm/v/@catalyst-elements/catalyst-toggle-button.svg?style=flat-square)](https://www.npmjs.com/package/@catalyst-elements/catalyst-toggle-button) | [![Travis](https://img.shields.io/travis/catalyst/catalyst-toggle-button.svg?style=flat-square)](https://travis-ci.org/catalyst/catalyst-toggle-button) | ![Polymer 2 not supported](https://img.shields.io/badge/Polymer_2-no-red.svg?style=flat-square) ![Polymer 3 support pending](https://img.shields.io/badge/Polymer_3-pending-yellow.svg?style=flat-square) |
+| [catalyst-toggle-switch](https://github.com/catalyst/catalyst-toggle-switch) | [![npm (scoped)](https://img.shields.io/npm/v/@catalyst-elements/catalyst-toggle-switch.svg?style=flat-square)](https://www.npmjs.com/package/@catalyst-elements/catalyst-toggle-switch) | [![Travis](https://img.shields.io/travis/catalyst/catalyst-toggle-switch.svg?style=flat-square)](https://travis-ci.org/catalyst/catalyst-toggle-switch) | ![Polymer 2 not supported](https://img.shields.io/badge/Polymer_2-no-red.svg?style=flat-square) ![Polymer 3 support pending](https://img.shields.io/badge/Polymer_3-pending-yellow.svg?style=flat-square) |
+
+**Mixins:**
+
+| Name | NPM Version | Build Status | Polymer Support |
+|:-----|:-----------:|:------------:|:---------------:|
+| [catalyst-toggle-mixin](https://github.com/catalyst/catalyst-toggle-mixin) | [![npm (scoped)](https://img.shields.io/npm/v/@catalyst-elements/catalyst-toggle-mixin.svg?style=flat-square)](https://www.npmjs.com/package/@catalyst-elements/catalyst-toggle-mixin) | [![Travis](https://img.shields.io/travis/catalyst/catalyst-toggle-mixin.svg?style=flat-square)](https://travis-ci.org/catalyst/catalyst-toggle-mixin) | ![Polymer 2 not supported](https://img.shields.io/badge/Polymer_2-no-red.svg?style=flat-square) ![Polymer 3 support pending](https://img.shields.io/badge/Polymer_3-pending-yellow.svg?style=flat-square) |
 
 ## Installation
 
